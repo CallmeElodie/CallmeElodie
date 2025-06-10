@@ -1,6 +1,6 @@
-# Elodie Lumley [🎸](https://emojipedia.org/guitar)
+# Elodie Lumley [🎸](https://emojipedia.org/nerd-face)
 
-**`Nearly Fully Human (Web Developer / Musician)`**
+**`Nearly Fully Human (Junior Full Stack Web Developer)`**
 
 <hr>
 
