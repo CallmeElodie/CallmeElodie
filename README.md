@@ -1,6 +1,6 @@
 # Elodie Lumley [🎸](https://emojipedia.org/nerd-face)
 
-**`Nearly Fully Human (Junior Full Stack Web Developer)`**
+**`Junior Full Stack Web Developer`**
 
 <hr>
 
