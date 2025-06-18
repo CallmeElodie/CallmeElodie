@@ -1,4 +1,4 @@
-# Elodie Lumley [🎸](https://emojipedia.org/nerd-face)
+# Elodie Lumley
 
 **`Junior Full Stack Web Developer`**
 
